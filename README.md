@@ -1,4 +1,4 @@
-<p align="right" style="font-style=orbitron;"> PROFILE VISITS</p> <img align="right" src="https://profile-counter.glitch.me/Rashi-T/count.svg">
+<p align="right" style="font-style=orbitron;"> PROFILE VISITS</p> <img align="right" src="https://profile-counter.glitch.me/AmrasHameed/count.svg">
     <br>
 
   <div align="center" >
