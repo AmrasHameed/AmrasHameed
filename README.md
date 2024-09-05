@@ -13,13 +13,10 @@ MERN Stack Developer with a strong focus on front-end development. Skilled in Re
 - **Orchestration:** Kubernetes
 - **Cloud:** AWS
 
-### Contact Information
+
 - **Email:** amrazhameed@gmail.com
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/amras-hameed-17179b29b/)
 - **LeetCode:** [LeetCode Profile](https://leetcode.com/u/Amras_Hameed/)
+- **GitHub:** [GitHub Profile](https://github.com/AmrasHameed) 
 
-### Social Media and Online Presence
-- **GitHub:** [GitHub Profile](https://github.com/yourusername) *(replace with actual link if available)*
 
-### Goals and Aspirations
-- Short-term and long-term career goals include working on impactful projects and advancing expertise in emerging technologies.
