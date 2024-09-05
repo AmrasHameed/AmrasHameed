@@ -1,5 +1,7 @@
 ## Amras Hameed K M
- **Email:** amrazhameed@gmail.com [LinkedIn Profile](https://www.linkedin.com/in/amras-hameed-17179b29b/) [LeetCode Profile](https://leetcode.com/u/Amras_Hameed/)  [GitHub Profile](https://github.com/AmrasHameed) 
+**Email:** amrazhameed@gmail.com
+[LinkedIn Profile](https://www.linkedin.com/in/amras-hameed-17179b29b/) 
+[LeetCode Profile](https://leetcode.com/u/Amras_Hameed/)   
 
 ### Profile Summary
 MERN Stack Developer with a strong focus on front-end development. Skilled in React, Node.js, and AWS, with expertise in TypeScript, Docker, and Kubernetes. Passionate about creating dynamic and responsive web applications.
