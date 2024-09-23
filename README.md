@@ -1,3 +1,4 @@
+<div style="background-image: url('https://media.giphy.com/media/your-gif-link-here/giphy.gif'); background-size: cover; padding: 50px; color: white; text-align: center;">
 # Hi there 👋 I'm **Amras Hameed**
 
 I'm a passionate **MERN Stack Developer** with a love for crafting robust, dynamic, and scalable web applications. Whether it's building sleek front-end interfaces with **React** or managing cloud infrastructure on **AWS**, I thrive on solving real-world problems through technology.
@@ -54,4 +55,4 @@ You can always find me on the following platforms:
 
 - 🔭 I’m always eager to learn new technologies and push my limits with challenging projects.
 - 🎮 When I’m not coding, I’m probably immersed in a strategy game or reading tech blogs!
-
+</div>
